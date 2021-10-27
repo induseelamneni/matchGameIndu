@@ -1,0 +1,16 @@
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 25px;
+  font-weight: 600;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.tab-list-item {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.active-btn {
+  text-decoration: underline;
+  color: #fec653;
+}
